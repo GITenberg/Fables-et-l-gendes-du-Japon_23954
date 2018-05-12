@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25893'
     url: http://www.gutenberg.org/2009/agents/25893
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23954#Fables-et-l-gendes-du-Japon
 gutenberg_bookshelf:
 - FR Contes
 - Folklore
