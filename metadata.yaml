@@ -1,0 +1,34 @@
+_repo: Fables-et-l-gendes-du-Japon_23954
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Raffin, Ferdinand
+    gutenberg_agent_id: '7543'
+    url: http://www.gutenberg.org/2009/agents/7543
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferrand, Claudius
+    gutenberg_agent_id: '25893'
+    url: http://www.gutenberg.org/2009/agents/25893
+description: ''
+gutenberg_bookshelf:
+- FR Contes
+- Folklore
+- Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2007-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23954'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Japan'
+- !lcc 'GR'
+- !lcsh 'Folklore -- Japan'
+title: Fables et légendes du Japon
+url: http://www.gutenberg.org/ebooks/23954
